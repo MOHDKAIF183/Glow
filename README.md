@@ -30,4 +30,3 @@ This project showcases glowing animations, smooth interactions, and a clean resp
 Developed by **Mohd Kaif**
 
 
-## 📁 Project Structure
